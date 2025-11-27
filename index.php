@@ -1224,11 +1224,10 @@
                 </nav>
                 
                 <div class="auth-buttons">
-<<<<<<< HEAD
-                    <a href="#" class="btn btn-outline">Sign In</a>
-=======
+
+                    
                     <a href="login.php" class="btn btn-outline">Sign In</a>
->>>>>>> b16211537480d09c174732c4d55bbad02b632427
+
                     <a href="register.php" class="btn btn-primary">Get Started</a>
                 </div>
             </div>
